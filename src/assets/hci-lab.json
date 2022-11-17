@@ -1,0 +1,164 @@
+{
+    "members":[
+        {
+            "name": "Shaun Wallace",
+            "isActive": true,
+            "occupation": "PhD Student",
+            "isBrownAffiliated": true,
+            "image": "images/shaun.jpg",
+            "numMentees": 25
+        },
+        {
+            "name": "Talie Massachi",
+            "isActive": true,
+            "occupation": "PhD Student",
+            "isBrownAffiliated": true,
+            "image": "images/talie.jpg",
+            "numMentees": 10
+        },
+        {
+            "name": "Tongyu Zhou",
+            "isActive": true,
+            "occupation": "PhD Student",
+            "isBrownAffiliated": true,
+            "image": "images/tongyu.png",
+            "numMentees": 3
+        },
+        {
+            "name": "Zainab Iftikhar",
+            "isActive": true,
+            "occupation": "PhD Student",
+            "isBrownAffiliated": true,
+            "image": "images/zainab.jpg",
+            "numMentees": 5
+        },
+        {
+            "name": "Ji Won Chung",
+            "isActive": true,
+            "occupation": "PhD Student",
+            "isBrownAffiliated": true,
+            "image": "images/jiwon.jpg",
+            "numMentees": 3
+        },
+        {
+            "name": "Brandon Woodard",
+            "isActive": true,
+            "occupation": "PhD Student",
+            "isBrownAffiliated": true,
+            "image": "images/brandon.jpg",
+            "numMentees": 0
+        },
+        {
+            "name": "Kaki Su",
+            "isActive": true,
+            "occupation": "Undergraduate",
+            "isBrownAffiliated": true,
+            "image": null,
+            "numMentees": 0
+        },
+        {
+            "name": "Josh Yang",
+            "isActive": true,
+            "occupation": "Undergraduate",
+            "isBrownAffiliated": false,
+            "image": null,
+            "numMentees": 0
+        },
+        {
+            "name": "Anika Ahluwalia",
+            "isActive": true,
+            "occupation": "Undergraduate",
+            "isBrownAffiliated": true,
+            "image": null,
+            "numMentees": 0
+        },
+        {
+            "name": "Jieyun Li",
+            "isActive": true,
+            "occupation": "Masters",
+            "isBrownAffiliated": true,
+            "image": null,
+            "numMentees": 0
+        },
+        {
+            "name": "Kevin Hsu",
+            "isActive": false,
+            "occupation": "Undergraduate",
+            "isBrownAffiliated": true,
+            "image": null,
+            "numMentees": 0
+        },
+        {
+            "name": "Mia Hines",
+            "isActive": false,
+            "occupation": "Undergraduate",
+            "isBrownAffiliated": false,
+            "image": null,
+            "numMentees": 0
+        },
+        {
+            "name": "Karen Liu",
+            "isActive": false,
+            "occupation": "Undergraduate",
+            "isBrownAffiliated": false,
+            "image": null,
+            "numMentees": 0
+        },
+        {
+            "name": "Yumeng Ma",
+            "isActive": false,
+            "occupation": "Masters",
+            "isBrownAffiliated": true,
+            "image": null,
+            "numMentees": 0
+        },
+        {
+            "name": "Neil Xu",
+            "isActive": false,
+            "occupation": "Undergraduate",
+            "isBrownAffiliated": true,
+            "image": null,
+            "numMentees": 0
+        },
+        {
+            "name": "Connie Liu",
+            "isActive": false,
+            "occupation": "Undergraduate",
+            "isBrownAffiliated": true,
+            "image": null,
+            "numMentees": 0
+        },
+        {
+            "name": "Jiahua Chen",
+            "isActive": false,
+            "occupation": "Undergraduate",
+            "isBrownAffiliated": true,
+            "image": null,
+            "numMentees": 0
+        },
+        {
+            "name": "Alexandra Papoutsaki",
+            "isActive": false,
+            "occupation": "PhD Student",
+            "isBrownAffiliated": true,
+            "image": null,
+            "numMentees": 100
+        },
+        {
+            "name": "Nediyana Daskalova",
+            "isActive": false,
+            "occupation": "PhD Student",
+            "isBrownAffiliated": true,
+            "image": null,
+            "numMentees": 50
+        },
+        {
+            "name": "Jing Qian",
+            "isActive": false,
+            "occupation": "PhD Student",
+            "isBrownAffiliated": true,
+            "image": null,
+            "numMentees": 25
+        }
+    ]
+}

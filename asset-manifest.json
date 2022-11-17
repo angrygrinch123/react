@@ -1,14 +1,27 @@
 {
   "files": {
-    "main.css": "/react/static/css/main.073c9b0a.css",
-    "main.js": "/react/static/js/main.1b4f2662.js",
-    "static/media/logo.svg": "/react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react/static/css/main.0ee10e74.css",
+    "main.js": "/react/static/js/main.78fc3212.js",
+    "static/media/tongyu.png": "/react/static/media/tongyu.ebdef06896053b3a809e.png",
+    "static/media/brandon.jpg": "/react/static/media/brandon.13aae595ac865cd4ddee.jpg",
+    "static/media/graduate.png": "/react/static/media/graduate.02b45a6a4756db03301c.png",
+    "static/media/hen.png": "/react/static/media/hen.8e97ccb7088403d46a26.png",
+    "static/media/zainab.jpg": "/react/static/media/zainab.3fee72fb4b0887b5f1a5.jpg",
+    "static/media/talie.jpg": "/react/static/media/talie.3a1b25a37258caff68a9.jpg",
+    "static/media/jiwon.jpg": "/react/static/media/jiwon.3d8575ac694df2b59153.jpg",
+    "static/media/preHeart.png": "/react/static/media/preHeart.c64864cfc1ba518ab94d.png",
+    "static/media/egg.png": "/react/static/media/egg.4c3aeefc026f58502922.png",
+    "static/media/chick.png": "/react/static/media/chick.819b392f8fb31b67bdc2.png",
+    "static/media/shaun.jpg": "/react/static/media/shaun.a54e2037fb41932ea0cf.jpg",
+    "static/media/broken-heart.png": "/react/static/media/broken-heart.2035dd6f05d5bd03e8aa.png",
+    "static/media/heart.png": "/react/static/media/heart.556c78a5a9b89d6b2eeb.png",
+    "static/media/logo.svg": "/react/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/react/index.html",
-    "main.073c9b0a.css.map": "/react/static/css/main.073c9b0a.css.map",
-    "main.1b4f2662.js.map": "/react/static/js/main.1b4f2662.js.map"
+    "main.0ee10e74.css.map": "/react/static/css/main.0ee10e74.css.map",
+    "main.78fc3212.js.map": "/react/static/js/main.78fc3212.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.1b4f2662.js"
+    "static/css/main.0ee10e74.css",
+    "static/js/main.78fc3212.js"
   ]
 }
